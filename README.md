@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GihoonE/GihoonE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--타이틀 부분-->
+<div align="center">
+  <h1>Hi, I'm Gihun Lee 👋</h1>
+  <p>ML Engineer | Researcher | Backend Developer</p>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/GihoonE"/>
+  </a>
+</div>
