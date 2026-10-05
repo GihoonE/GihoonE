@@ -6,7 +6,7 @@ I'm a junior at Duke Kunshan University studying Applied Mathematics and Compute
 - **MobileRLHF** — Federated preference learning for on-device LLM adaptation. Accepted to the Work-in-Progress (WiP) track at **ACM MobiCom 2026**.
 - **FedHealthAgent** — Federated and on-device learning for personalized health agents. Under review at **ACM MobiCom 2027**.
 - **SE–ASR Artifact-Aware Post-processing** — Research on reducing the mismatch between pretrained speech enhancement systems and automatic speech recognition through artifact-aware post-processing. Ongoing research.
-- **Canine Respiratory Pathogen Surveillance** — Data processing and analysis for a molecular surveillance study of respiratory pathogens and coinfections in symptomatic dogs in Kunshan, China. Manuscript submitted.
+- **Canine Respiratory Pathogen Surveillance** — Data processing and analysis for a molecular surveillance study of respiratory pathogens and coinfections in symptomatic dogs in Kunshan, China. Under review at The Journal of Veterinary Medical Science.
 
 ## Selected Engineering
 - **FedCampus 2.0** — Backend and infrastructure development for a federated campus platform.
